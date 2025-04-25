@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jamba</string>
+    <string name="skip_to_the_next_audio_file">Skip to the next audio file</string>
+    <string name="play_or_pause_the_playback_audio">Play or pause the playback audio</string>
+    <string name="skip_to_the_previous_audio_file">Skip to the previous audio file</string>
+    <string name="album_cover">Album cover</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="skip_next">Next</string>
+    <string name="skip_previous">Previous</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="battery_optimization_title">Battery optimization</string>
+    <string name="battery_optimization_message">Please disable battery optimization for your app to ensure that it runs smoothly and access all of its features.</string>
+    <string name="Internal_Storage">Internal Storage</string>
+    <string name="External_Storage">External Storage</string>
+    <string name="Removable_Storage">Removable Storage</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="temp_title">Details will display when the player starts</string>
+</resources>

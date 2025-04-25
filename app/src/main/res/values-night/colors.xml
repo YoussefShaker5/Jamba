@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vectors">#ffffff</color>
+    <color name="background">#2E2E2E</color>
+    <color name="background2">#000000</color>
+    <color name="ColorPrimaryVariant">#FF3700B3</color>
+</resources>

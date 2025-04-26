@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "534423121195",
-    "project_id": "stream-beats",
-    "storage_bucket": "stream-beats.appspot.com"
+    "project_number": "907194910885",
+    "project_id": "jamba1",
+    "storage_bucket": "jamba1.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:534423121195:android:6a6865597180ad3dc3a96e",
+        "mobilesdk_app_id": "1:907194910885:android:ed3706317152cba3a5254c",
         "android_client_info": {
-          "package_name": "com.YouTech.streambeats"
+          "package_name": "com.YouTech.jamba"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "534423121195-3nlnsmqtqqniq80ai0rgv8lnhs26tcss.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBQVORgH1sEr6bKJucX1uYKu2kMe9HTZyI"
+          "current_key": "AIzaSyBwkuKvoIrmD9Mr9gh-obl5Ezm1bw-aK90"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "534423121195-3nlnsmqtqqniq80ai0rgv8lnhs26tcss.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

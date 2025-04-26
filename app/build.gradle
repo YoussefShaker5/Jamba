@@ -11,7 +11,7 @@ ext {
 
 android {
     namespace 'com.YouTech.jamba'
-    compileSdk 33
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.YouTech.jamba"
